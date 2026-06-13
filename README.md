@@ -10,37 +10,37 @@ A custom ESP32-S3-WROOM-1 IoT development board designed from scratch using Easy
 
 ## 📐 Schematic
 
-![Schematic](images/schematic.jpg)
+![Schematic](schematic.jpg)
 
 ---
 
 ## 📋 Bill of Materials
 
-![BOM](images/schematic_BOM.jpg)
+![BOM](schematic_BOM.jpg)
 
 ---
 
 ## 🖥️ PCB Layout
 
-![PCB Layout](images/pcb_layout.jpg)
+![PCB Layout](pcb_layout.jpg)
 
 ---
 
 ## 🟦 Gerber Preview
 
-![Gerber Preview](images/Gerber_preview.jpg)
+![Gerber Preview](Gerber_preview.jpg)
 
 ---
 
 ## 🧊 3D View — Top
 
-![3D Top View](images/3D_top%20view.jpg)
+![3D Top View](3D_top%20view.jpg)
 
 ---
 
 ## 🧊 3D View — Isometric
 
-![3D Isometric View](images/3D_isolated%20view.jpg)
+![3D Isometric View](3D_isolated%20view.jpg)
 
 ---
 
